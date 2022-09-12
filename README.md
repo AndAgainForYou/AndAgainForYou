@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndAgainForYou
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React\redux\node.js
+- 🌱 I’m currently learning React / Redux / TypeScript / node.js
 - 📫 How to reach me: telegram: @Daniilzb, instagram: @daniil_zborovets
 
 <!---
